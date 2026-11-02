@@ -1,0 +1,7 @@
+# Dipakai aplikasi saat dijalankan.
+streamlit>=1.55
+pandas>=2.2
+matplotlib>=3.9
+
+# Dipakai hanya untuk pengujian lokal. Tidak dipanggil oleh app.py.
+pytest>=8.3
